@@ -1,2 +1,3 @@
 name: Continuum Theory of Particle Physics
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
